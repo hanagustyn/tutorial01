@@ -3,6 +3,10 @@ package test.git;
 public class Student {
 	String name;
 
+	public Student() {
+		this.name = name;
+	}
+	
 	public String getName() {
 		return name;
 	}
